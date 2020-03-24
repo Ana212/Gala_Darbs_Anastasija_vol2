@@ -1,0 +1,90 @@
+body{
+    background: lightgrey;
+}
+body {
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
+
+    .navbar {
+      color: olivedrab;
+    }
+
+    a {
+        color: olivedrab!important;
+    }
+
+.foo{
+    overflow: hidden;
+    }
+.zoo{
+    float: left;
+    margin: right 10px;
+    padding: 10px;
+}
+    
+.container1 {
+    border: 1px solid;
+}
+
+ #wrapper {
+    height: 300px;
+    /* border: 1px solid; */
+    color: black;
+    overflow-y: scroll;
+        }
+
+ #first {
+     background: olivedrab;
+ }    
+ 
+ img {
+    max-width: 100%}
+
+#joo{
+    padding: 10px;
+    margin: 10px;
+}
+     
+ .col {
+    padding: 10px;
+     margin: 10px;
+ }
+
+ /* about us sadaļas bilžu izmēri */
+
+ #water {
+	height: 100px;
+	width: 100px;
+}
+
+#soil{
+	height: 100px;
+	width: 100px;
+}
+
+#grass {
+	height: 100px;
+	width: 100px;
+}
+
+#footer {
+  bottom: 0px;
+  width: 100%;
+  height: 2.5rem; 
+
+}
+
+
+.btn-primary:hover{
+    background-color: palevioletred;
+}
+
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color:olivedrab;
+    margin: 0px;
+}
